@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           <a href="#hero" className="flex items-center gap-3">
             <span className="w-9 h-9 rounded-lg overflow-hidden ring-1 ring-brand-500/30">
-              <Image src="/images/logo.png" alt="DaWit.dev logo" width={36} height={36} className="w-full h-full object-cover" />
+              <Image src="images/logo.png" alt="DaWit.dev logo" width={36} height={36} className="w-full h-full object-cover" />
             </span>
             <span className="text-lg font-bold tracking-tight">
               Dawit<span className="text-brand-500">.dev</span>
